@@ -1,0 +1,12 @@
+﻿<svg id="zuoyetongji.svg" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 36 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #52d037;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_1" data-name="圆角矩形 1" class="cls-1" y="20.844" width="8" height="23.156" rx="4" ry="4"/>
+  <rect id="圆角矩形_1_拷贝" data-name="圆角矩形 1 拷贝" class="cls-1" x="14" y="10.406" width="8" height="33.594" rx="4" ry="4"/>
+  <rect id="圆角矩形_1_拷贝_2" data-name="圆角矩形 1 拷贝 2" class="cls-1" x="28" width="8" height="44" rx="4" ry="4"/>
+</svg>

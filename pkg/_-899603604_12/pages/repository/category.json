@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "小说分类",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#fff",
+    "usingComponents": {
+        "list": "/components/book/list",
+        "more": "/components/models/more"
+    }
+}

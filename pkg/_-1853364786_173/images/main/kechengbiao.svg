@@ -1,0 +1,38 @@
+﻿<svg id="kechengbiao.svg" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 53 58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-2 {
+        fill: #f2385a;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_15_拷贝" data-name="圆角矩形 15 拷贝" class="cls-1" x="5" y="1" width="48" height="56" rx="6" ry="6"/>
+  <rect id="圆角矩形_17" data-name="圆角矩形 17" x="11" y="23" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_2" data-name="圆角矩形 17 拷贝 2" x="23" y="23" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_4" data-name="圆角矩形 17 拷贝 4" x="35" y="23" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_6" data-name="圆角矩形 17 拷贝 6" x="11" y="31" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_7" data-name="圆角矩形 17 拷贝 7" x="23" y="31" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_8" data-name="圆角矩形 17 拷贝 8" x="35" y="31" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_9" data-name="圆角矩形 17 拷贝 9" x="11" y="38" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_10" data-name="圆角矩形 17 拷贝 10" x="23" y="38" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_11" data-name="圆角矩形 17 拷贝 11" x="35" y="38" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_12" data-name="圆角矩形 17 拷贝 12" x="11" y="46" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_17_拷贝_13" data-name="圆角矩形 17 拷贝 13" x="23" y="46" width="8" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_18" data-name="圆角矩形 18" class="cls-2" x="15" y="7" width="4" height="4" rx="2" ry="2"/>
+  <rect id="圆角矩形_18_拷贝" data-name="圆角矩形 18 拷贝" class="cls-2" x="32" y="7" width="4" height="4" rx="2" ry="2"/>
+  <path id="圆角矩形_15" data-name="圆角矩形 15" class="cls-3" d="M650,1081v4m0,5.14V1101a6,6,0,0,1-6,6H606a6,6,0,0,1-6-6v-44a6,6,0,0,1,6-6h27.029m-1.109,0H644a6,6,0,0,1,6,6v19" transform="translate(-599 -1050)"/>
+  <rect id="矩形_16" data-name="矩形 16" x="1" y="15" width="50" height="2"/>
+</svg>

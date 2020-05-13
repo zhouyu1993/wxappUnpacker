@@ -1,0 +1,29 @@
+﻿<svg id="guanzhugongzhonghao.svg" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke: #f2385a;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_4" data-name="圆角矩形 4" x="19" width="4" height="6" rx="2" ry="2"/>
+  <path id="圆角矩形_3" data-name="圆角矩形 3" class="cls-1" d="M646,825.945V834m-30,0V818.5A14.5,14.5,0,0,1,630.5,804h1A14.5,14.5,0,0,1,646,818.5v2.521" transform="translate(-610 -799)"/>
+  <path id="圆角矩形_3_拷贝" data-name="圆角矩形 3 拷贝" class="cls-2" d="M612,813c0-4.387,4.283-9.675,8-11" transform="translate(-610 -799)"/>
+  <path id="圆角矩形_3_拷贝_2" data-name="圆角矩形 3 拷贝 2" class="cls-2" d="M650,813c0-4.289-3.43-9.705-7.314-11" transform="translate(-610 -799)"/>
+  <path id="椭圆_8" data-name="椭圆 8" class="cls-3" d="M635.448,835.032a4.948,4.948,0,1,1-9.9,0" transform="translate(-610 -799)"/>
+  <rect id="圆角矩形_5" data-name="圆角矩形 5" y="35" width="42" height="2" rx="0.71" ry="0.71"/>
+</svg>

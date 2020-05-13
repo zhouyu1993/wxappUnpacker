@@ -1,0 +1,30 @@
+<svg id="chuangjainxinbanji.svg" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #52d037;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #52d037;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #ffffff;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_5_拷贝" data-name="圆角矩形 5 拷贝" class="cls-1" x="8.5" y="8.5" width="44" height="44" rx="6" ry="6"/>
+  <rect id="圆角矩形_5_拷贝_2" data-name="圆角矩形 5 拷贝 2" class="cls-2" x="1.5" y="1.5" width="44" height="44" rx="6" ry="6"/>
+  <rect id="圆角矩形_6" data-name="圆角矩形 6" class="cls-3" x="18.5" y="29.5" width="24" height="3" rx="1.286" ry="1.286"/>
+  <path id="圆角矩形_6_拷贝" data-name="圆角矩形 6 拷贝" class="cls-4" d="M129,981a1.32,1.32,0,0,1,1.32,1.32v21.36a1.32,1.32,0,0,1-2.64,0V982.32A1.32,1.32,0,0,1,129,981Z" transform="translate(-98.5 -962.5)"/>
+</svg>

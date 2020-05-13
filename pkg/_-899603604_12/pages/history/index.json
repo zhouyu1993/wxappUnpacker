@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "阅读记录",
+    "usingComponents": {
+        "cover": "/components/book/cover"
+    }
+}

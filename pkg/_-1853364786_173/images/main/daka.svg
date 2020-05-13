@@ -1,0 +1,44 @@
+﻿<svg id="daka.svg" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 59 61.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9de8f7;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #fad97f;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_31" data-name="圆角矩形 31" class="cls-1" d="M618.613,1244.27c2.132-.57,4.3-1.15,6.427-1.72m4.509-1.21C636.51,1239.47,642,1238,642,1238c4.117-1,7.349,6.55,4,11l-51,14v-8a6,6,0,0,1,6-6s4.781-1.28,11.078-2.97" transform="translate(-594 -1236.91)"/>
+  <circle id="椭圆_18" data-name="椭圆 18" cx="27" cy="13.09" r="2"/>
+  <circle id="椭圆_18_拷贝" data-name="椭圆 18 拷贝" cx="36" cy="11.09" r="2"/>
+  <circle id="椭圆_18_拷贝_2" data-name="椭圆 18 拷贝 2" cx="45" cy="9.09" r="2"/>
+  <rect id="圆角矩形_30_拷贝_2" data-name="圆角矩形 30 拷贝 2" class="cls-2" x="2" y="22.09" width="55" height="38" rx="6" ry="6"/>
+  <rect id="矩形_20" data-name="矩形 20" class="cls-2" x="2" y="49.09" width="23" height="10"/>
+  <rect id="圆角矩形_30_拷贝" data-name="圆角矩形 30 拷贝" class="cls-3" x="5" y="22.09" width="54" height="38" rx="6" ry="6"/>
+  <rect id="圆角矩形_30" data-name="圆角矩形 30" class="cls-4" x="1" y="22.09" width="56" height="38" rx="6" ry="6"/>
+  <path id="形状_5" data-name="形状 5" class="cls-5" d="M617,1280l7,9,14-16" transform="translate(-594 -1236.91)"/>
+</svg>

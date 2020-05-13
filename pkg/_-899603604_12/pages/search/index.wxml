@@ -1,0 +1,7 @@
+<view class="container">
+    <view class="search">
+        <input bindconfirm="on_search" confirmType="搜索" placeholder="搜一搜" type="text" value="{{key}}"></input>
+    </view>
+    <list lists="{{list}}" title="共找到{{total_num}}本小说"></list>
+    <more loaded="{{loaded}}"></more>
+</view>

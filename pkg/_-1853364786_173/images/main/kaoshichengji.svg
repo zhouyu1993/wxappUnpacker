@@ -1,0 +1,34 @@
+<svg id="kaoshichengji.svg" xmlns="http://www.w3.org/2000/svg" width="48" height="58" viewBox="0 0 48 58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #f2385a;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_19_拷贝" data-name="圆角矩形 19 拷贝" class="cls-1" d="M364.273,1241H395a6,6,0,0,1,6,6v44a6,6,0,0,1-6,6H364.273a6,6,0,0,1-6-6v-44A6,6,0,0,1,364.273,1241Z" transform="translate(-353 -1240)"/>
+  <path id="圆角矩形_19" data-name="圆角矩形 19" class="cls-2" d="M385.8,1241h6.653a6.217,6.217,0,0,1,6.409,6v23.24m0,5.61V1291a6.217,6.217,0,0,1-6.409,6H360.409a6.217,6.217,0,0,1-6.409-6v-44a6.217,6.217,0,0,1,6.409-6h19.039" transform="translate(-353 -1240)"/>
+  <rect id="圆角矩形_20" data-name="圆角矩形 20" x="13" y="13" width="23" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_20_拷贝" data-name="圆角矩形 20 拷贝" x="13" y="21" width="16" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_20_拷贝_3" data-name="圆角矩形 20 拷贝 3" class="cls-3" x="30" y="31" width="12" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_20_拷贝_4" data-name="圆角矩形 20 拷贝 4" class="cls-3" x="35" y="26" width="2" height="12" rx="1" ry="1"/>
+  <rect id="矩形_22" data-name="矩形 22" class="cls-3" x="18" y="40" width="8" height="3"/>
+  <path id="矩形_21" data-name="矩形 21" class="cls-4" d="M373.128,1269h3l-5.59,19h-3Z" transform="translate(-353 -1240)"/>
+  <path id="矩形_21_拷贝" data-name="矩形 21 拷贝" class="cls-4" d="M377.139,1269H374l5.855,19h3.141Z" transform="translate(-353 -1240)"/>
+</svg>

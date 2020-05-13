@@ -1,0 +1,1116 @@
+{
+  "subPackages": [
+    {
+      "root": "sp1/",
+      "pages": [
+        "sp1/pages/graduated",
+        "sp1/pages/store",
+        "sp1/pages/credit",
+        "sp1/pages/creditstate",
+        "sp1/pages/invitation",
+        "sp1/pages/notification_setting",
+        "sp1/pages/ledger",
+        "sp1/pages/ledgerlist",
+        "sp1/pages/createAdward",
+        "sp1/pages/update_info",
+        "sp1/pages/personal",
+        "sp1/pages/webpage"
+      ]
+    },
+    {
+      "root": "sp2/",
+      "pages": [
+        "sp2/pages/course_record_edit",
+        "sp2/pages/course_evaluation_edit",
+        "sp2/pages/course_record_list",
+        "sp2/pages/course_evaluation_list",
+        "sp2/pages/course_record"
+      ]
+    },
+    {
+      "root": "sp3/",
+      "pages": [
+        "sp3/pages/daily_homework_list",
+        "sp3/pages/daily_homework_records",
+        "sp3/pages/daily_homework_statistic"
+      ]
+    },
+    {
+      "root": "sp4/",
+      "pages": [
+        "sp4/pages/statistics",
+        "sp4/pages/bulk_rating",
+        "sp4/pages/image_editor",
+        "sp4/pages/new_image_editor",
+        "sp4/pages/image_bulk_editor",
+        "sp4/pages/answers",
+        "sp4/pages/supplementary",
+        "sp4/pages/calendar",
+        "sp4/pages/homework_answer"
+      ]
+    },
+    {
+      "root": "sp5/",
+      "pages": [
+        "sp5/pages/exam_report",
+        "sp5/pages/team_list",
+        "sp5/pages/team_edit"
+      ]
+    },
+    {
+      "root": "sp6/",
+      "pages": [
+        "sp6/pages/dialogs",
+        "sp6/pages/dialog_detail",
+        "sp6/pages/partner_list"
+      ]
+    },
+    {
+      "root": "sp7/",
+      "pages": [
+        "sp7/pages/group_edit",
+        "sp7/pages/group_mode",
+        "sp7/pages/join_confirm",
+        "sp7/pages/profile"
+      ]
+    },
+    {
+      "root": "sp8/",
+      "pages": [
+        "sp8/pages/enroll_edit",
+        "sp8/pages/enroll",
+        "sp8/pages/enroll_join",
+        "sp8/pages/add_to_group"
+      ]
+    },
+    {
+      "root": "sp9/",
+      "pages": [
+        "sp9/pages/question_set_list",
+        "sp9/pages/question_set_edit",
+        "sp9/pages/question_edit",
+        "sp9/pages/question_answer_edit",
+        "sp9/pages/homework_question_edit",
+        "sp9/pages/question_set_report"
+      ]
+    },
+    {
+      "root": "sp10/",
+      "pages": [
+        "sp10/pages/excellent_student"
+      ]
+    },
+    {
+      "root": "sp11/",
+      "pages": [
+        "sp11/pages/daily_assign",
+        "sp11/pages/weekdays",
+        "sp11/pages/assign",
+        "sp11/pages/external_url"
+      ]
+    }
+  ],
+  "entryPagePath": "pages/index.html",
+  "pages": [
+    "pages/index",
+    "pages/group",
+    "pages/homework",
+    "pages/answer",
+    "pages/help",
+    "pages/video",
+    "pages/configure",
+    "pages/authorization",
+    "pages/qrcode",
+    "pages/albumlist",
+    "pages/album",
+    "pages/album_edit",
+    "pages/file",
+    "pages/lessons",
+    "pages/examinations",
+    "pages/exam",
+    "pages/upload_file",
+    "pages/vip_feature",
+    "pages/purchaseMembers",
+    "pages/exam_select",
+    "pages/exam_comment",
+    "pages/homework_report",
+    "pages/announcement_list",
+    "pages/announcement_edit",
+    "pages/announcement",
+    "pages/wish_list",
+    "pages/success",
+    "pages/vip_success",
+    "pages/rating_template",
+    "sp1/pages/graduated",
+    "sp1/pages/store",
+    "sp1/pages/credit",
+    "sp1/pages/creditstate",
+    "sp1/pages/invitation",
+    "sp1/pages/notification_setting",
+    "sp1/pages/ledger",
+    "sp1/pages/ledgerlist",
+    "sp1/pages/createAdward",
+    "sp1/pages/update_info",
+    "sp1/pages/personal",
+    "sp1/pages/webpage",
+    "sp2/pages/course_record_edit",
+    "sp2/pages/course_evaluation_edit",
+    "sp2/pages/course_record_list",
+    "sp2/pages/course_evaluation_list",
+    "sp2/pages/course_record",
+    "sp3/pages/daily_homework_list",
+    "sp3/pages/daily_homework_records",
+    "sp3/pages/daily_homework_statistic",
+    "sp4/pages/statistics",
+    "sp4/pages/bulk_rating",
+    "sp4/pages/image_editor",
+    "sp4/pages/new_image_editor",
+    "sp4/pages/image_bulk_editor",
+    "sp4/pages/answers",
+    "sp4/pages/supplementary",
+    "sp4/pages/calendar",
+    "sp4/pages/homework_answer",
+    "sp5/pages/exam_report",
+    "sp5/pages/team_list",
+    "sp5/pages/team_edit",
+    "sp6/pages/dialogs",
+    "sp6/pages/dialog_detail",
+    "sp6/pages/partner_list",
+    "sp7/pages/group_edit",
+    "sp7/pages/group_mode",
+    "sp7/pages/join_confirm",
+    "sp7/pages/profile",
+    "sp8/pages/enroll_edit",
+    "sp8/pages/enroll",
+    "sp8/pages/enroll_join",
+    "sp8/pages/add_to_group",
+    "sp9/pages/question_set_list",
+    "sp9/pages/question_set_edit",
+    "sp9/pages/question_edit",
+    "sp9/pages/question_answer_edit",
+    "sp9/pages/homework_question_edit",
+    "sp9/pages/question_set_report",
+    "sp10/pages/excellent_student",
+    "sp11/pages/daily_assign",
+    "sp11/pages/weekdays",
+    "sp11/pages/assign",
+    "sp11/pages/external_url"
+  ],
+  "page": {
+    "pages/index.html": {
+      "window": {
+        "navigationBarTitleText": "作业登记簿",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/group.html": {
+      "window": {
+        "navigationBarTitleText": "班级",
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/homework.html": {
+      "window": {
+        "navigationBarTitleText": "详情",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "homeworkmedia": "/wx_components/homework_media/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "answer-detail": "/wx_components/answer_detail/index",
+          "rating-form": "/wx_components/rating_form/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "auth-modal": "/wx_components/auth_modal/index",
+          "recorder": "/wx_components/recorder/index",
+          "audio-player": "/wx_components/audio_player/index",
+          "follow-modal": "/wx_components/follow_modal/index",
+          "video-cover": "/wx_components/video_cover/index",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/answer.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "作业提交",
+        "usingComponents": {
+          "answer-detail": "/wx_components/homework_answer/index",
+          "auth-modal": "/wx_components/auth_modal/index",
+          "recorder": "/wx_components/recorder/index",
+          "rating-form": "/wx_components/rating_form/index",
+          "audio-player": "/wx_components/audio_player/index",
+          "video-cover": "/wx_components/video_cover/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/help.html": {
+      "window": {
+        "navigationBarTitleText": "作业案例",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/video.html": {
+      "window": {
+        "navigationBarTitleText": "视频",
+        "usingComponents": {
+          "auth-modal": "/wx_components/auth_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/configure.html": {
+      "window": {
+        "navigationBarTitleText": "作业登记簿",
+        "usingComponents": {
+          "follow-modal": "/wx_components/follow_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/authorization.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "enablePullDownRefresh": false,
+        "navigationBarTitleText": "用户授权",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/qrcode.html": {
+      "window": {
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/albumlist.html": {
+      "window": {
+        "navigationBarTitleText": "班级相册",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/album.html": {
+      "window": {
+        "navigationBarTitleText": "班级相册",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/album_edit.html": {
+      "window": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/file.html": {
+      "window": {
+        "navigationBarTitleText": "相册文件",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "auth-modal": "/wx_components/auth_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/lessons.html": {
+      "window": {
+        "navigationBarTitleText": "课程表",
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/examinations.html": {
+      "window": {
+        "navigationBarTitleText": "考试成绩",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/exam.html": {
+      "window": {
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "lesson-selector": "/wx_components/lesson_selector/index",
+          "group-picker": "/wx_components/group_picker/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/upload_file.html": {
+      "window": {
+        "navigationBarTitleText": "上传文件",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/vip_feature.html": {
+      "window": {
+        "navigationBarTitleText": "开通VIP",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/purchaseMembers.html": {
+      "window": {
+        "navigationBarTitleText": "选择成员",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/exam_select.html": {
+      "window": {
+        "navigationBarTitleText": "考试成绩",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/exam_comment.html": {
+      "window": {
+        "navigationBarTitleText": "成绩点评",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/homework_report.html": {
+      "window": {
+        "navigationBarTitleText": "作业统计",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "group-picker": "/wx_components/group_picker/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/announcement_list.html": {
+      "window": {
+        "navigationBarTitleText": "班级公告",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/announcement_edit.html": {
+      "window": {
+        "navigationBarTitleText": "班级公告",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/announcement.html": {
+      "window": {
+        "navigationBarTitleText": "公告详情",
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/wish_list.html": {
+      "window": {
+        "navigationBarTitleText": "拼堆购物单",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/success.html": {
+      "window": {
+        "navigationBarTitleText": "作业登记簿",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/vip_success.html": {
+      "window": {
+        "navigationBarTitleText": "VIP",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "follow-modal": "/wx_components/follow_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "pages/rating_template.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "enablePullDownRefresh": false,
+        "navigationBarTitleText": "评语",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/graduated.html": {
+      "window": {
+        "navigationBarTitleText": "结课班级",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/store.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "积分商城",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/credit.html": {
+      "window": {
+        "navigationBarTitleText": "我的积分",
+        "navigationBarBackgroundColor": "#fff",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/creditstate.html": {
+      "window": {
+        "navigationBarTitleText": "积分说明",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#fff",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/invitation.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "我的邀请",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/notification_setting.html": {
+      "window": {
+        "navigationBarTitleText": "提醒设置",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/ledger.html": {
+      "window": {
+        "navigationBarTitleText": "明细",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/ledgerlist.html": {
+      "window": {
+        "navigationBarTitleText": "账本",
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/createAdward.html": {
+      "window": {
+        "navigationBarTitleText": "新建奖状",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/update_info.html": {
+      "window": {
+        "navigationBarTitleText": "更新内容",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell",
+          "txv-video": "plugin://wxa75efa648b60994b/video"
+        }
+      }
+    },
+    "sp1/pages/personal.html": {
+      "window": {
+        "navigationBarTitleText": "个人中心",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp1/pages/webpage.html": {
+      "window": {
+        "navigationBarTitleText": "使用手册",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp2/pages/course_record_edit.html": {
+      "window": {
+        "navigationBarTitleText": "课堂表现",
+        "usingComponents": {
+          "lesson-selector": "/wx_components/lesson_selector/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp2/pages/course_evaluation_edit.html": {
+      "window": {
+        "navigationBarTitleText": "课堂表现",
+        "usingComponents": {
+          "media-selector": "/wx_components/media_selector/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp2/pages/course_record_list.html": {
+      "window": {
+        "navigationBarTitleText": "课堂表现",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp2/pages/course_evaluation_list.html": {
+      "window": {
+        "navigationBarTitleText": "课堂表现",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp2/pages/course_record.html": {
+      "window": {
+        "navigationBarTitleText": "课堂表现",
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp3/pages/daily_homework_list.html": {
+      "window": {
+        "navigationBarTitleText": "打卡",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp3/pages/daily_homework_records.html": {
+      "window": {
+        "navigationBarTitleText": "打卡详情",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "homeworkmedia": "/wx_components/homework_media/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp3/pages/daily_homework_statistic.html": {
+      "window": {
+        "navigationBarTitleText": "统计",
+        "usingComponents": {
+          "vip-renewal-modal": "/wx_components/vip_renewal_modal/index",
+          "join-group-footer": "/wx_components/join_group_footer/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/statistics.html": {
+      "window": {
+        "navigationBarTitleText": "统计",
+        "usingComponents": {
+          "homeworkmedia": "/wx_components/homework_media/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/bulk_rating.html": {
+      "window": {
+        "navigationBarTitleText": "批量打分",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "rating-form": "/wx_components/rating_form/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/image_editor.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "enablePullDownRefresh": false,
+        "navigationBarTitleText": "编辑图片",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/new_image_editor.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "enablePullDownRefresh": false,
+        "navigationBarTitleText": "编辑图片",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/image_bulk_editor.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "enablePullDownRefresh": false,
+        "navigationBarTitleText": "编辑图片",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/answers.html": {
+      "window": {
+        "navigationBarTitleText": "批量打分",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "audio-player": "/wx_components/audio_player/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/supplementary.html": {
+      "window": {
+        "navigationBarTitleText": "提交作业",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "recorder": "/wx_components/recorder/index",
+          "audio-player": "/wx_components/audio_player/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/calendar.html": {
+      "window": {
+        "navigationBarTitleText": "往期作业",
+        "usingComponents": {
+          "answer-detail": "/wx_components/homework_answer/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp4/pages/homework_answer.html": {
+      "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "作业答案",
+        "usingComponents": {
+          "audio-player": "/wx_components/audio_player/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp5/pages/exam_report.html": {
+      "window": {
+        "navigationBarTitleText": "考试成绩",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp5/pages/team_list.html": {
+      "window": {
+        "navigationBarTitleText": "小组",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp5/pages/team_edit.html": {
+      "window": {
+        "navigationBarTitleText": "小组",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp6/pages/dialogs.html": {
+      "window": {
+        "navigationBarTitleText": "私信列表",
+        "usingComponents": {
+          "follow-modal": "/wx_components/follow_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp6/pages/dialog_detail.html": {
+      "window": {
+        "navigationBarTitleText": "私信",
+        "usingComponents": {
+          "footer-input": "/wx_components/footer_input/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp6/pages/partner_list.html": {
+      "window": {
+        "navigationBarTitleText": "选择成员",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp7/pages/group_edit.html": {
+      "window": {
+        "navigationBarTitleText": "班级设置",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp7/pages/group_mode.html": {
+      "window": {
+        "navigationBarTitleText": "创建新班级",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp7/pages/join_confirm.html": {
+      "window": {
+        "navigationBarTitleText": "作业登记簿",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp7/pages/profile.html": {
+      "window": {
+        "navigationBarTitleText": "身份设置",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp8/pages/enroll_edit.html": {
+      "window": {
+        "navigationBarTitleText": "报名设置",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp8/pages/enroll.html": {
+      "window": {
+        "navigationBarTitleText": "报名开班",
+        "usingComponents": {
+          "follow-modal": "/wx_components/follow_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp8/pages/enroll_join.html": {
+      "window": {
+        "navigationBarTitleText": "身份设置",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "media-selector": "/wx_components/media_selector/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp8/pages/add_to_group.html": {
+      "window": {
+        "navigationBarTitleText": "班级设置",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp9/pages/question_set_list.html": {
+      "window": {
+        "navigationBarTitleText": "答题卡模板",
+        "enablePullDownRefresh": true,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp9/pages/question_set_edit.html": {
+      "window": {
+        "navigationBarTitleText": "创建答题卡模板",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp9/pages/question_edit.html": {
+      "window": {
+        "navigationBarTitleText": "新增题目",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp9/pages/question_answer_edit.html": {
+      "window": {
+        "navigationBarTitleText": "答题卡",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp9/pages/homework_question_edit.html": {
+      "window": {
+        "navigationBarTitleText": "编辑答题卡",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp9/pages/question_set_report.html": {
+      "window": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "答题卡统计",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp10/pages/excellent_student.html": {
+      "window": {
+        "navigationBarTitleText": "优秀作业分享",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "auth-modal": "/wx_components/auth_modal/index",
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp11/pages/daily_assign.html": {
+      "window": {
+        "navigationBarTitleText": "每日打卡",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "media-selector": "/wx_components/media_selector/index",
+          "group-picker": "/wx_components/group_picker/index",
+          "lesson-selector": "/wx_components/lesson_selector/index",
+          "assign-groups": "/sp11/wx_components/assign_groups/index",
+          "assign-teams": "/sp11/wx_components/assign_teams/index",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp11/pages/weekdays.html": {
+      "window": {
+        "navigationBarTitleText": "打卡频率",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp11/pages/assign.html": {
+      "window": {
+        "navigationBarTitleText": "布置作业",
+        "enablePullDownRefresh": false,
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "dailymedia": "/wx_components/homework_media/index",
+          "assign-groups": "/sp11/wx_components/assign_groups/index",
+          "assign-teams": "/sp11/wx_components/assign_teams/index",
+          "media-selector": "/wx_components/media_selector/index",
+          "homework-answer-form": "/sp11/wx_components/homework_answer_form/index",
+          "group-picker": "/wx_components/group_picker/index",
+          "lesson-selector": "/wx_components/lesson_selector/index",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    },
+    "sp11/pages/external_url.html": {
+      "window": {
+        "navigationBarTitleText": "添加链接",
+        "usingComponents": {
+          "txv-video": "plugin://wxa75efa648b60994b/video",
+          "wechat-work-cell": "plugin://wx104a1a20c3f81ec2/cell"
+        }
+      }
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "global": {
+    "window": {
+      "enablePullDownRefresh": true,
+      "backgroundTextStyle": "light",
+      "backgroundColor": "#dcdcdc",
+      "navigationBarBackgroundColor": "#F8F8F8",
+      "navigationBarTitleText": "作业登记簿",
+      "navigationBarTextStyle": "black"
+    }
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 20000,
+    "downloadFile": 20000
+  },
+  "plugins": {
+    "TxvVideo": {
+      "version": "1.3.12",
+      "provider": "wxa75efa648b60994b",
+      "subpackage": "__APP__"
+    },
+    "contactPlugin": {
+      "version": "1.3.0",
+      "provider": "wx104a1a20c3f81ec2",
+      "subpackage": "__APP__"
+    }
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wxb251981d899d5c23",
+    "wx7bb576902363f4ff",
+    "wx77773ade9a2d7055"
+  ]
+}

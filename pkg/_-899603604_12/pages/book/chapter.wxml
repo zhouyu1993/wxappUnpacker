@@ -1,0 +1,24 @@
+<view class="container">
+    <view class="header">
+        <text class="title">{{title}}</text>
+        <text class="time">{{time}}更新{{word_count}}字</text>
+    </view>
+    <view class="content">
+        <text>{{content}}</text>
+    </view>
+    <view class="footer">
+        <navigator class="button-mini" openType="redirect" url="/pages/book/chapter?bookid={{bookid}}&chapterid={{previd}}" wx:if="{{previd}}">
+            上一章
+        </navigator>
+        <navigator class="button-mini" url="/pages/book/list?bookid={{bookid}}">
+            <image mode="scaleToFill" src="/images/mulu.png"></image>
+            目录
+        </navigator>
+        <navigator class="button-mini" openType="redirect" url="/pages/book/chapter?bookid={{bookid}}&chapterid={{nextid}}" wx:if="{{nextid}}">
+            <image mode="scaleToFill" src="/images/xiayizhang.png"></image>
+            下一章
+        </navigator>
+    </view>
+    <navigator class="toIndexBtn" openType="switchTab" url="/pages/repository/index?from=VIP阅读页分享" wx:if="{{isIndex}}">首页
+    </navigator>
+</view>

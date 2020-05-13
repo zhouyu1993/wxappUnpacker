@@ -1,0 +1,25 @@
+﻿<svg id="shiyongbangzhu.svg" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 47 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #f2385a;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_3_拷贝" data-name="椭圆 3 拷贝" class="cls-1" cx="26" cy="23" r="21"/>
+  <path id="椭圆_3" data-name="椭圆 3" class="cls-2" d="M298.79,511.054a21.96,21.96,0,1,1-8.85-7.162" transform="translate(-258 -501)"/>
+  <circle id="椭圆_21" data-name="椭圆 21" class="cls-3" cx="23.5" cy="12.5" r="2.5"/>
+  <rect id="圆角矩形_23" data-name="圆角矩形 23" class="cls-3" x="21" y="18" width="4" height="17" rx="2" ry="2"/>
+</svg>

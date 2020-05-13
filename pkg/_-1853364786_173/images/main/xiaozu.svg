@@ -1,0 +1,28 @@
+﻿<svg id="xiaozu.svg" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 50 55.78">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #f2385a;
+      }
+    </style>
+  </defs>
+  <path id="形状_7_拷贝" data-name="形状 7 拷贝" class="cls-1" d="M105,1248.06v28.37l23,19.56,23-20.54v-26.41A43.773,43.773,0,0,0,105,1248.06Z" transform="translate(-101 -1240.97)"/>
+  <path id="形状_7" data-name="形状 7" class="cls-2" d="M127.067,1242.08A44.053,44.053,0,0,0,102,1248.06v28.37l23,19.56,23-20.54v-26.41a37.341,37.341,0,0,0-7.857-4.03m-4.154-1.38q-1.473-.42-3.091-0.75c-0.5-.11-1-0.2-1.517-0.29" transform="translate(-101 -1240.97)"/>
+  <path id="多边形_1" data-name="多边形 1" class="cls-3" d="M136,1262.59l-6.936,4.73,2.421,7.63-6.677-4.71-6.919,4.76,2.81-7.64-6.7-4.69,8.414-.01,2.779-7.66,2.39,7.64Z" transform="translate(-101 -1240.97)"/>
+</svg>

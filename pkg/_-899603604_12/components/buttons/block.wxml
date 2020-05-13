@@ -1,0 +1,11 @@
+<navigator class="button" url="{{url}}">
+    <image class="icon" mode="scaleToFill" src="{{icon_url}}" wx:if="{{icon_url}}"></image>
+    <view class="title">
+        <text class="name" wx:if="{{name}}">{{name}}</text>
+        <text class="desc" wx:if="{{desc}}">{{desc}}</text>
+    </view>
+    <view class="more" wx:if="{{more||moreIcon}}">{{more}}
+        <image class="moreIcon" src="../..{{moreIcon}}" wx:if="{{moreIcon}}"></image>
+    </view>
+    <image class="moreArr" src="../../images/icon/arr_right.png"></image>
+</navigator>

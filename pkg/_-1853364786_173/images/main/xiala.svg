@@ -1,0 +1,19 @@
+﻿<svg id="xiala.svg" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 46 46">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #666;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_3" data-name="椭圆 3" class="cls-1" cx="23" cy="23" r="22"/>
+  <path id="矩形_4" data-name="矩形 4" class="cls-2" d="M707,175l-10,14-11.71-13" transform="translate(-673 -155)"/>
+</svg>

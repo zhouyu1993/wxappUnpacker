@@ -1,0 +1,20 @@
+﻿<svg id="fuzhimingdan.svg" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 38 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #52d037;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #52d037;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_4_拷贝" data-name="圆角矩形 4 拷贝" class="cls-1" x="7.5" y="1.5" width="29" height="37" rx="5" ry="5"/>
+  <rect id="圆角矩形_4" data-name="圆角矩形 4" class="cls-2" x="1.5" y="7.5" width="29" height="37" rx="5" ry="5"/>
+</svg>

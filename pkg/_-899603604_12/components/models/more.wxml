@@ -1,0 +1,4 @@
+<view class="load">
+    <text class="loading" wx:if="{{!loaded}}">~   ~  ~ ~ ~~~~ 努力中... ~~~~ ~ ~  ~   ~</text>
+    <text class="loadend" wx:else>~~~~ ~ ~  ~   ~ 到底了 ~   ~  ~ ~ ~~~~</text>
+</view>

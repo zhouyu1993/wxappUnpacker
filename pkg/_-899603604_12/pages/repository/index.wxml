@@ -1,0 +1,20 @@
+<view class="container">
+    <swiper autoplay="true" class="swiper" indicatorDots="true">
+        <swiper-item wx:for="{{swiper}}" wx:key="{{item.book_id}}">
+            <navigator url="{{item.url}}">
+                <image class="cover" mode="widthFix" src="{{item.cover}}"></image>
+            </navigator>
+        </swiper-item>
+    </swiper>
+    <view class="search">
+        <input bindconfirm="event_search" confirmType="搜索" placeholder="搜一搜" type="text"></input>
+    </view>
+    <view class="category">
+        <navigator url="category?name=热读排行">热读排行</navigator>
+        <block wx:for="{{category}}" wx:key="site_{{item.id}}">
+            <navigator class="item_{{item.id}}" url="category?site={{item.id}}&category_1={{child.id}}&name={{child.name}}" wx:for="{{item.child_node}}" wx:for-item="child" wx:key="child_{{child.id}}">{{child.name}}
+            </navigator>
+        </block>
+    </view>
+    <list lists="{{item.lists}}" title="{{item.title}}" wx:if="{{item.template=='list'}}" wx:for="{{datalist}}" wx:key="null"></list>
+</view>

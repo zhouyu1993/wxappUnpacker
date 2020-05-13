@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "作品详情",
+    "usingComponents": {
+        "button-block": "/components/buttons/block",
+        "list": "/components/book/list",
+        "title": "/components/models/title",
+        "more": "/components/models/more",
+        "cover": "/components/book/cover"
+    }
+}

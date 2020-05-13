@@ -1,0 +1,22 @@
+﻿<svg id="shanchu.svg" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 26 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #666;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #666;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_12" data-name="圆角矩形 12" class="cls-1" d="M716,1337v14.63a6.227,6.227,0,0,1-6.076,6.37h-7.848a6.227,6.227,0,0,1-6.076-6.37V1337" transform="translate(-693 -1331)"/>
+  <rect id="圆角矩形_13" data-name="圆角矩形 13" class="cls-2" y="5" width="26" height="2" rx="0.641" ry="0.641"/>
+  <path id="椭圆_5" data-name="椭圆 5" class="cls-1" d="M702.211,1335.85a3.948,3.948,0,0,1,7.894,0" transform="translate(-693 -1331)"/>
+  <rect id="圆角矩形_14" data-name="圆角矩形 14" class="cls-2" x="8" y="12" width="2" height="10" rx="0.658" ry="0.658"/>
+  <rect id="圆角矩形_14_拷贝" data-name="圆角矩形 14 拷贝" class="cls-2" x="12" y="12" width="2" height="10" rx="0.658" ry="0.658"/>
+  <rect id="圆角矩形_14_拷贝_2" data-name="圆角矩形 14 拷贝 2" class="cls-2" x="16" y="12" width="2" height="10" rx="0.658" ry="0.658"/>
+</svg>

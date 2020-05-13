@@ -1,0 +1,8 @@
+<view class="lists">
+    <title align="center" title="{{title}}" wx:if="{{title}}"></title>
+    <navigator class="item" url="/pages/book/home?bookid={{item.book_id}}" wx:for="{{lists}}" wx:key="book_id">
+        <cover class="cover" mode="scaleToFill" sign="{{item.book_status=='03'?'全本':''}}" url="{{item.cover}}"></cover>
+        <text class="bookname">{{item.book_name}}</text>
+        <text class="author" decode="true">{{item.author_name}}/{{item.category_name_2||'著'}}</text>
+    </navigator>
+</view>

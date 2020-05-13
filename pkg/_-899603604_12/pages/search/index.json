@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "搜索",
+    "usingComponents": {
+        "list": "/components/book/lineup",
+        "more": "/components/models/more"
+    }
+}

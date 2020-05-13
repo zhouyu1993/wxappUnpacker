@@ -1,0 +1,39 @@
+<view class="container">
+    <navigator class="book" url="list?bookid={{bookid}}">
+        <cover class="cover" url="{{cover}}"></cover>
+        <view class="title">{{name}}</view>
+        <view class="author">{{author}}/著</view>
+        <view class="sign">
+            <text style="background:#A2C788">{{book_status}}{{chapter_total}}章</text>
+            <text style="background:#D1C685">{{word_count}}字</text>
+            <text style="background:#E6A363">{{total_click}}点击</text>
+            <text style="background:#E2C0D6">{{category_name_1}}</text>
+            <text style="background:#B4C3E8">{{category_name_2}}</text>
+        </view>
+    </navigator>
+    <button-block desc="{{last_update_chapter_name}}" more="{{last_update_chapter_date}}" name="最新" url="chapter?bookid={{bookid}}&chapterid={{last_update_chapter_id}}"></button-block>
+    <view catchtap="on_intro" class="intro" style="-webkit-line-clamp:{{introLines}}">
+        <text decode="true" space="true">{{intro}}</text>
+    </view>
+    <view class="read_button">
+        <navigator class="button-mini home" openType="switchTab" url="/pages/repository/index?from=书首页">‹ 书城
+		</navigator>
+        <text catchtap="on_bookshelf" class="button-mini shelf">{{isBookshelf?'移除':'加入'}}书架</text>
+        <text catchtap="on_read" class="button-mini read" wx:if="{{isShare}}">免费阅读</text>
+        <button class="button-mini share" openType="share" type="warn" wx:else>分享给朋友</button>
+    </view>
+    <view class="comment" wx:if="{{comment.lists.length}}">
+        <title desc="(最新3/{{comment.total}}条)">评论</title>
+        <view class="item" wx:for="{{comment.lists}}" wx:key="{{item.author_id}}">
+            <view class="name">
+                <image mode="scaleToFill" src="{{item.marks.avatar}}"></image>
+                <text>{{item.marks.nick_name}}</text>
+                <text class="time">{{item.time}}</text>
+                <text class="author" wx:if="{{item.is_author}}">本书作者</text>
+            </view>
+            <view class="cont">{{item.summary}}</view>
+        </view>
+    </view>
+    <list lists="{{recommend}}" title="相关书籍"></list>
+    <more loaded="{{true}}"></more>
+</view>

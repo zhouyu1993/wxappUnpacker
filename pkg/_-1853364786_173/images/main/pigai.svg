@@ -1,0 +1,24 @@
+﻿<svg id="pigai.svg" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 28.219 26.78">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #666;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #666;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_11" data-name="圆角矩形 11" class="cls-1" x="17.219" y="19.69" width="11" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_11_拷贝" data-name="圆角矩形 11 拷贝" class="cls-1" x="12.219" y="23.69" width="16" height="2" rx="1" ry="1"/>
+  <path id="圆角矩形_10" data-name="圆角矩形 10" class="cls-2" d="M648.379,1333.84a5.1,5.1,0,0,1,0,7.29l-12.96,12.76c-2.409.79-3.153,1.04-10.646,3.2,0.86-2.97,2.163-6.65,3.24-10.49l12.96-12.76A5.283,5.283,0,0,1,648.379,1333.84Z" transform="translate(-623.781 -1331.31)"/>
+  <path id="矩形_9" data-name="矩形 9" class="cls-3" d="M629.364,1346.2l6.438,6.29-1.374,1.36-6.438-6.29Z" transform="translate(-623.781 -1331.31)"/>
+  <path id="矩形_10" data-name="矩形 10" class="cls-3" d="M639.975,1335.6l6.427,6.29-1.343,1.33-6.427-6.29Z" transform="translate(-623.781 -1331.31)"/>
+</svg>

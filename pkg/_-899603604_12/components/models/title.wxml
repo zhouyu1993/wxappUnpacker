@@ -1,0 +1,5 @@
+<view class="title" style="text-align:{{align}}">
+    <text class="maintitle">{{title||''}}<slot></slot>
+    </text>
+    <text class="subtitle" wx:if="desc">{{desc}}</text>
+</view>

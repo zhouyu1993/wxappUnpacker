@@ -1,0 +1,33 @@
+﻿<svg id="xiaogonggao.svg" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 43.5 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2385a;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: #f2385a;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="形状_10_拷贝" data-name="形状 10 拷贝" class="cls-1" d="M20,351h5l17-13v41L26,366H20V351Z" transform="translate(-16 -337)"/>
+  <path id="形状_10" data-name="形状 10" class="cls-2" d="M32.56,342.925L39,338v41L23,366H17V351h5l4.013-3.069" transform="translate(-16 -337)"/>
+  <path id="椭圆_23" data-name="椭圆 23" class="cls-3" d="M46.986,351.279a8.5,8.5,0,0,1-.041,14.467" transform="translate(-16 -337)"/>
+  <path id="椭圆_23_拷贝" data-name="椭圆 23 拷贝" class="cls-3" d="M50.151,344a17.268,17.268,0,0,1-.081,29" transform="translate(-16 -337)"/>
+</svg>

@@ -1,0 +1,28 @@
+﻿<svg id="gonggao.svg" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 58 55.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_32_拷贝" data-name="圆角矩形 32 拷贝" class="cls-1" x="8" width="48" height="41" rx="6" ry="6"/>
+  <path id="形状_8" data-name="形状 8" class="cls-2" d="M358,1488l7-13" transform="translate(-346 -1435)"/>
+  <path id="形状_8_拷贝" data-name="形状 8 拷贝" class="cls-2" d="M392,1489.06L384.8,1476" transform="translate(-346 -1435)"/>
+  <rect id="圆角矩形_33" data-name="圆角矩形 33" x="15" y="10" width="29" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_33_拷贝" data-name="圆角矩形 33 拷贝" x="15" y="18" width="29" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_33_拷贝_2" data-name="圆角矩形 33 拷贝 2" x="15" y="25" width="21" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_34" data-name="圆角矩形 34" y="39" width="58" height="2" rx="1" ry="1"/>
+  <path id="圆角矩形_32" data-name="圆角矩形 32" class="cls-3" d="M350,1457.16v4.62m0,2V1474m50,0v-33a6,6,0,0,0-6-6H356a6,6,0,0,0-6,6v14.03" transform="translate(-346 -1435)"/>
+</svg>

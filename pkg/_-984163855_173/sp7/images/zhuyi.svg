@@ -1,0 +1,17 @@
+﻿<svg id="zhuyi.svg" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 54.813 46.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f98e42;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="形状_1" data-name="形状 1" class="cls-1" d="M31,1179l21-34s4.361-6.36,8,0l22,35s6.354,8.11-4,9H34S25.359,1187.58,31,1179Z" transform="translate(-29.094 -1142.16)"/>
+  <rect id="圆角矩形_1" data-name="圆角矩形 1" class="cls-2" x="23.906" y="11.84" width="6" height="19" rx="3" ry="3"/>
+  <rect id="圆角矩形_2" data-name="圆角矩形 2" class="cls-2" x="23.906" y="34.84" width="6" height="6" rx="3" ry="3"/>
+</svg>

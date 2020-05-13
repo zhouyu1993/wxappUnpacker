@@ -1,0 +1,45 @@
+<view class="container">
+    <view class="userinfo">
+        <block wx:if="{{nickName}}">
+            <image class="avatar" mode="widthFix" src="{{avatarUrl}}"></image>
+            <text class="name">{{nickName}}</text>
+            <image catchtap="on_help" class="help" mode="widthFix" src="/images/help.png"></image>
+        </block>
+        <block wx:else>
+            <button bindgetuserinfo="on_getuserinfo" class="login" openType="getUserInfo" type="warn" wx:if="{{!isUserInfo}}">
+                授权登陆
+            </button>
+        </block>
+    </view>
+    <text catchtap="on_help" class="help-text" wx:if="{{showHelp}}">授权登陆后方可同步阅读历史和书架</text>
+    <view class="listCount">共收藏{{total_num}}本书</view>
+    <view class="list" wx:for="{{list}}" wx:key="{{item.book_id}}">
+        <view class="item">
+            <navigator class="cover" url="/pages/book/home?bookid={{item.book_id}}">
+                <cover url="{{item.cover}}"></cover>
+            </navigator>
+            <view class="info">
+                <navigator class="name" url="/pages/book/home?bookid={{item.book_id}}">
+                    {{item.book_name}}
+                </navigator>
+                <navigator class="chapter" url="/pages/book/chapter?bookid={{item.book_id}}&chapterid={{item.last_update_chapter_id}}">最新: {{item.last_update_chapter_name}}
+                </navigator>
+            </view>
+            <view class="more">
+                <view class="read">
+                    <navigator class="read" url="/pages/book/chapter?bookid={{item.book_id}}&chapterid={{item.chapterid}}" wx:if="{{item.readTime}}">{{item.readTime}}读过</navigator>
+                    <text wx:else>还未阅读</text>
+                </view>
+                <view class="share {{item.shareTime!==null?'share':'gray'}}">{{item.shareTime!==null?item.shareTime+'分享':'分享免费看'}}</view>
+                <view class="time">{{item.update}}</view>
+            </view>
+        </view>
+    </view>
+    <view class="none" wx:if="{{total_num===0}}">
+        <image mode="aspectFit" src="/images/kong.png"></image>
+        <text>我们在"推荐"中给你找了一本好书, 去看看吧</text>
+        <navigator class="button-mini" openType="switchTab" url="/pages/home/index?from=书架">
+            去看看
+        </navigator>
+    </view>
+</view>

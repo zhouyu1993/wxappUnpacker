@@ -1,0 +1,30 @@
+<svg id="lianxikefu.svg" xmlns="http://www.w3.org/2000/svg" width="65.5" height="58" viewBox="0 0 65.5 58">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #52d037;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #52d037;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <path id="椭圆_15" data-name="椭圆 15" class="cls-1" d="M601.614,986.059a22.843,22.843,0,1,1,45.684,0" transform="translate(-593 -961.5)"/>
+  <path id="椭圆_13" data-name="椭圆 13" class="cls-2" d="M607.14,983.961v24.159c-7.809,0-14.14-5.41-14.14-12.081S599.331,983.961,607.14,983.961Z" transform="translate(-593 -961.5)"/>
+  <path id="椭圆_13_拷贝" data-name="椭圆 13 拷贝" class="cls-3" d="M642.86,983.961v24.159c7.809,0,14.14-5.41,14.14-12.081S650.669,983.961,642.86,983.961Z" transform="translate(-593 -961.5)"/>
+  <path id="椭圆_14" data-name="椭圆 14" class="cls-4" d="M645.758,1006.37c-3.9,7.56-14.487,11.63-24.565,11.63" transform="translate(-593 -961.5)"/>
+</svg>

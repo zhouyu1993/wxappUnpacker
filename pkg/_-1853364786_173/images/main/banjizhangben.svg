@@ -1,0 +1,44 @@
+﻿<svg id="banjizhangben.svg" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 66 57.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9de8f7;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-6 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #fad97f;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #f2385a;
+      }
+
+      .cls-6 {
+        fill: #f77100;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_24" data-name="圆角矩形 24" class="cls-1" d="M622.638,1432h3.833m3.243,0h6.1c2.869,0,5.194,2.69,5.194,6v42c0,3.31-2.325,6-5.194,6H601.194c-2.869,0-5.194-2.69-5.194-6v-42c0-3.31,2.325-6,5.194-6h18.1" transform="translate(-595 -1431)"/>
+  <path id="圆角矩形_25" data-name="圆角矩形 25" class="cls-2" d="M603,1445h47.552a6,6,0,0,1,6,6v30a6,6,0,0,1-6,6H603a6,6,0,0,1-6-6v-30A6,6,0,0,1,603,1445Z" transform="translate(-595 -1431)"/>
+  <rect id="圆角矩形_25_拷贝_2" data-name="圆角矩形 25 拷贝 2" class="cls-3" x="5" y="14" width="54" height="42" rx="6" ry="6"/>
+  <path id="圆角矩形_25_拷贝" data-name="圆角矩形 25 拷贝" class="cls-4" d="M602.041,1444.95h43.918a6,6,0,0,1,6,6v30.11a6,6,0,0,1-6,6H602.041a6,6,0,0,1-6-6v-30.11A6,6,0,0,1,602.041,1444.95Z" transform="translate(-595 -1431)"/>
+  <path id="圆角矩形_26" data-name="圆角矩形 26" class="cls-5" d="M640.584,1456H658a2,2,0,0,1,2,2v12a2,2,0,0,1-2,2H640.584a2,2,0,0,1-2-2v-12A2,2,0,0,1,640.584,1456Z" transform="translate(-595 -1431)"/>
+  <circle id="椭圆_15" data-name="椭圆 15" class="cls-6" cx="51" cy="33" r="3"/>
+</svg>

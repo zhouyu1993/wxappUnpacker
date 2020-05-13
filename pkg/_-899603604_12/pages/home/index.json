@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "一起看免费小说",
+    "usingComponents": {
+        "title": "/components/models/title",
+        "cover": "/components/book/cover"
+    }
+}

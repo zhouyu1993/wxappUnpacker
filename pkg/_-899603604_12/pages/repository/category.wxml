@@ -1,0 +1,4 @@
+<view class="container">
+    <list lists="{{lists}}" title="共藏书{{total_num}}本"></list>
+    <more loaded="{{loaded}}"></more>
+</view>

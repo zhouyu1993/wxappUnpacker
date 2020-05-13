@@ -1,0 +1,52 @@
+{
+    "pages": [
+        "pages/home/index",
+        "pages/bookshelf/index",
+        "pages/repository/index",
+        "pages/repository/category",
+        "pages/history/index",
+        "pages/book/list",
+        "pages/book/home",
+        "pages/book/chapter",
+        "pages/search/index"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "一起看免费小说",
+        "backgroundColor": "#eee",
+        "onReachBottomDistance": true
+    },
+    "tabBar": {
+        "backgroundColor": "#fff",
+        "color": "#333",
+        "borderStyle": "#fff",
+        "selectedColor": "#BA2A37",
+        "list": [
+            {
+                "pagePath": "pages/home/index",
+                "text": "首页",
+                "iconPath": "images/nav/tuijian2.png",
+                "selectedIconPath": "images/nav/tuijian1.png"
+            },
+            {
+                "pagePath": "pages/repository/index",
+                "text": "书城",
+                "iconPath": "images/nav/shuku2.png",
+                "selectedIconPath": "images/nav/shuku1.png"
+            },
+            {
+                "pagePath": "pages/bookshelf/index",
+                "text": "收藏",
+                "iconPath": "images/nav/shujia2.png",
+                "selectedIconPath": "images/nav/shujia1.png"
+            },
+            {
+                "pagePath": "pages/history/index",
+                "text": "看过",
+                "iconPath": "images/nav/history.png",
+                "selectedIconPath": "images/nav/history1.png"
+            }
+        ]
+    }
+}

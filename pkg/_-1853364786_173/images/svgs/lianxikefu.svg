@@ -1,0 +1,28 @@
+<svg id="lianxikefu.svg" xmlns="http://www.w3.org/2000/svg" width="49" height="47" viewBox="0 0 49 47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #f2385a;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_28_拷贝" data-name="圆角矩形 28 拷贝" class="cls-1" d="M456.739,504h28.7A9.665,9.665,0,0,1,495,513.762v16.6a9.665,9.665,0,0,1-9.565,9.763H472.141l-9.663,6.834,0.02-6.834h-1.933A9.665,9.665,0,0,1,451,530.358v-20.5A5.8,5.8,0,0,1,456.739,504Z" transform="translate(-446 -503)"/>
+  <path id="圆角矩形_28" data-name="圆角矩形 28" class="cls-2" d="M453,504h30a10.115,10.115,0,0,1,10,10.227v17.387a10.115,10.115,0,0,1-10,10.227H469.1L459,549l0.02-7.159H457a10.115,10.115,0,0,1-10-10.227V510.136A6.069,6.069,0,0,1,453,504Z" transform="translate(-446 -503)"/>
+  <circle id="椭圆_22" data-name="椭圆 22" class="cls-3" cx="12.5" cy="19.907" r="2.5"/>
+  <circle id="椭圆_22_拷贝" data-name="椭圆 22 拷贝" class="cls-3" cx="23.5" cy="19.907" r="2.5"/>
+  <circle id="椭圆_22_拷贝_2" data-name="椭圆 22 拷贝 2" class="cls-3" cx="35.5" cy="19.907" r="2.5"/>
+</svg>

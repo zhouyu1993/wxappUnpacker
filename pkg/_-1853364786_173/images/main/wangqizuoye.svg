@@ -1,0 +1,28 @@
+﻿<svg id="wangqizuoye.svg" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 59 58.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <ellipse id="椭圆_12_拷贝" data-name="椭圆 12 拷贝" class="cls-1" cx="32" cy="29" rx="27" ry="28"/>
+  <path id="圆角矩形_22" data-name="圆角矩形 22" class="cls-2" d="M101,1447a3.6,3.6,0,0,1-1-1c-0.884-1.53-1.788-3.48-1.788-3.48a7,7,0,0,1,12.124-7s0.318,0.55.749,1.3" transform="translate(-96 -1431)"/>
+  <path id="圆角矩形_22_拷贝" data-name="圆角矩形 22 拷贝" class="cls-2" d="M139.885,1435.95c1.107-1.3,1.681-1.93,1.681-1.93a7,7,0,0,1,9.9,9.9s-1.855,2.47-2.465,3.08" transform="translate(-96 -1431)"/>
+  <rect id="圆角矩形_23" data-name="圆角矩形 23" x="27" y="13" width="2" height="19" rx="1" ry="1"/>
+  <rect id="圆角矩形_23_拷贝" data-name="圆角矩形 23 拷贝" x="27" y="30" width="14" height="2" rx="1" ry="1"/>
+  <path id="椭圆_12" data-name="椭圆 12" class="cls-2" d="M97.584,1454.28a28,28,0,1,1,.508,13.49m-0.726-3.24A28.128,28.128,0,0,1,97,1460c0-.84.037-1.67,0.11-2.5" transform="translate(-96 -1431)"/>
+  <path id="形状_4" data-name="形状 4" class="cls-3" d="M98,1487l7-7" transform="translate(-96 -1431)"/>
+  <path id="形状_4_拷贝" data-name="形状 4 拷贝" class="cls-3" d="M150,1488.65l-7-6.65" transform="translate(-96 -1431)"/>
+</svg>

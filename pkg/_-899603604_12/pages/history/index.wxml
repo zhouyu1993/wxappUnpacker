@@ -1,0 +1,29 @@
+<view class="container">
+    <view class="list" wx:for="{{list}}" wx:key="{{item.book_id}}">
+        <navigator class="item" url="/pages/book/chapter?bookid={{item.book_id}}&chapterid={{item.chapterid}}">
+            <view class="cover">
+                <cover url="{{item.cover}}"></cover>
+            </view>
+            <view class="info">
+                <view class="name">{{item.book_name}}</view>
+                <view class="author">{{item.author_name}}/著</view>
+            </view>
+            <view class="more">
+                <view class="readTime">
+                    {{item.readTime}}读过
+                </view>
+                <view class="{{item.book_status==='03'?'end':'update'}}">
+                    {{item.lastDate}}<text>
+</text>{{item.update}}
+                </view>
+            </view>
+        </navigator>
+    </view>
+    <view class="none" wx:if="{{total_num===0}}">
+        <image mode="aspectFit" src="/images/kong.png"></image>
+        <text>我们在"推荐"中给你找了一本好书, 去看看吧</text>
+        <navigator class="button-mini" openType="switchTab" url="/pages/home/index?from=书架">
+            去看看
+        </navigator>
+    </view>
+</view>

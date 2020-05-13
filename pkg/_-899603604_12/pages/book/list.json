@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "作品目录",
+    "usingComponents": {
+        "button-block": "/components/buttons/block",
+        "title": "/components/models/title",
+        "more": "/components/models/more"
+    }
+}

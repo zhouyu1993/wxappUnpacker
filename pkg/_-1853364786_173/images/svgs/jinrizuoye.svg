@@ -1,0 +1,30 @@
+﻿<svg id="jinrizuoye.svg" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 39 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #f2385a;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_1_拷贝" data-name="圆角矩形 1 拷贝" class="cls-1" d="M109,378.156v8.29A5.611,5.611,0,0,1,103.333,392H80.667A5.611,5.611,0,0,1,75,386.446v-23.9a5.611,5.611,0,0,1,5.667-5.553h1.889v2.879a1.871,1.871,0,0,0,1.889,1.852h1.889a1.871,1.871,0,0,0,1.889-1.852v-2.879h7.556v2.879a1.871,1.871,0,0,0,1.889,1.852h1.889a1.87,1.87,0,0,0,1.889-1.852v-2.879h1.889A5.611,5.611,0,0,1,109,362.544V373.5" transform="translate(-70 -350)"/>
+  <path id="圆角矩形_25" data-name="圆角矩形 25" class="cls-2" d="M101,392H77a6,6,0,0,1-6-6V360a6,6,0,0,1,6-6h1v2a4,4,0,0,0,8,0v-2h6v2a4,4,0,0,0,8,0v-2h1a6,6,0,0,1,6,6v26A6,6,0,0,1,101,392Z" transform="translate(-70 -350)"/>
+  <rect id="圆角矩形_16" data-name="圆角矩形 16" x="10" y="17" width="18" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_16_拷贝" data-name="圆角矩形 16 拷贝" x="10" y="24" width="18" height="2" rx="1" ry="1"/>
+  <rect id="圆角矩形_16_拷贝_2" data-name="圆角矩形 16 拷贝 2" x="10" y="31" width="9" height="2" rx="1" ry="1"/>
+  <rect id="矩形_3_拷贝_3" data-name="矩形 3 拷贝 3" class="cls-3" x="10" width="4" height="8" rx="2" ry="2"/>
+  <rect id="矩形_3_拷贝_4" data-name="矩形 3 拷贝 4" class="cls-3" x="24" width="4" height="8" rx="2" ry="2"/>
+</svg>

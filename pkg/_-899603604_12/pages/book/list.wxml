@@ -1,0 +1,10 @@
+<view class="container">
+    <view catchtap="on_swapOrder" class="order">{{order?'正':'反'}}</view>
+    <view class="volumes" wx:for="{{volumes}}" wx:key="id">
+        <title align="center">{{item.name}}</title>
+        <view class="list">
+            <button-block desc="" icon="" moreIcon="{{item.vip!=='Y'?'':'/images/icon/history.png'}}" name="{{item.name}}" url="/pages/book/chapter?bookid={{bookid}}&chapterid={{item.id}}" wx:for="{{item.chapters}}" wx:key="{{item.id}}"></button-block>
+        </view>
+    </view>
+    <more loaded="{{loaded}}"></more>
+</view>

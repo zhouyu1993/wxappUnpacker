@@ -1,0 +1,31 @@
+﻿<svg id="VIP.svg" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 43.5 32.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fad97f;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        font-size: 22px;
+        fill: #f98e42;
+        text-anchor: middle;
+        font-family: "Microsoft YaHei";
+      }
+    </style>
+  </defs>
+  <path id="形状_1_拷贝" data-name="形状 1 拷贝" class="cls-1" d="M48,1918H66l11,11-20,20-19-21Z" transform="translate(-33.5 -1916.5)"/>
+  <path id="形状_1" data-name="形状 1" class="cls-2" d="M66.6,1922.75c2.476,2.45,4.884,4.83,4.884,4.83l-18.117,19.93-18.862-19.93,10.2-10.09H61.286s0.73,0.72,1.8,1.78" transform="translate(-33.5 -1916.5)"/>
+  <text id="VIP" class="cls-3" transform="translate(21.749 20.082) scale(0.746 0.745)">VIP</text>
+</svg>

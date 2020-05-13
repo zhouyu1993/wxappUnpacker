@@ -1,0 +1,29 @@
+<view class="container">
+    <view class="jinribidu">
+        <image mode="scaleToFill" src="/images/jinribidu1.png"></image>
+        <text>今日推荐</text>
+        <image mode="scaleToFill" src="/images/jinribidu1.png"></image>
+    </view>
+    <text class="title" decode="true" space="true">{{text}}</text>
+    <view class="box">
+        <navigator class="cover" url="/pages/book/home?bookid={{bookid}}">
+            <cover url="{{cover}}"></cover>
+            <view class="name">{{name}}</view>
+            <view class="author">{{author}}/著</view>
+        </navigator>
+        <view class="buttons">
+            <button catchtap="on_swap" size="mini">换一换</button>
+            <button class="share" openType="share" size="mini" type="warn">{{!isShare?'分享给朋友':'免费阅读'}}</button>
+        </view>
+        <button bindgetuserinfo="on_getuserinfo" class="login" openType="getUserInfo" type="warn" wx:if="{{!isUserInfo}}">
+            授权登陆
+        </button>
+    </view>
+    <view class="swap" wx:if="{{isShowSwap}}">
+        <image class="saizi" mode="widthFix" src="/images/saizi.png"></image>
+        <text class="tit">让我来给你算算</text>
+        <input bindconfirm="on_search" bindinput="on_input" confirmType="确定" cursorSpacing="100" focus="true" maxlength="8" placeholder="随便输入几个字吧" type="text"></input>
+        <button catchtap="on_swap_cache" class="cache" size="mini">取消</button>
+        <button catchtap="on_search" class="ok" size="mini">确定</button>
+    </view>
+</view>

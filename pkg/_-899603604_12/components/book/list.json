@@ -1,0 +1,7 @@
+{
+    "component": true,
+    "usingComponents": {
+        "cover": "cover",
+        "title": "../models/title"
+    }
+}

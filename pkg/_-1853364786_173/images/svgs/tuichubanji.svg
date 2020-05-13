@@ -1,0 +1,40 @@
+﻿<svg id="tuichubanji.svg" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 42 45">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fad97f;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: #f2385a;
+      }
+
+      .cls-5 {
+        stroke: #f2385a;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_26_拷贝" data-name="圆角矩形 26 拷贝" class="cls-1" d="M674,535.041V539a6,6,0,0,1-6,6H642a6,6,0,0,1-6-6V508a6,6,0,0,1,6-6h26a6,6,0,0,1,6,6v3.807" transform="translate(-635 -501)"/>
+  <path id="圆角矩形_26_拷贝_2" data-name="圆角矩形 26 拷贝 2" class="cls-2" d="M677,534.273v3.866A5.852,5.852,0,0,1,671.158,544H645.842A5.852,5.852,0,0,1,640,538.139V507.86a5.852,5.852,0,0,1,5.842-5.86h25.316A5.852,5.852,0,0,1,677,507.86v3.719" transform="translate(-635 -501)"/>
+  <path id="圆角矩形_26" data-name="圆角矩形 26" class="cls-3" d="M674,535.041V539a6,6,0,0,1-6,6H642a6,6,0,0,1-6-6V508a6,6,0,0,1,6-6h26a6,6,0,0,1,6,6v3.807" transform="translate(-635 -501)"/>
+  <rect id="圆角矩形_27" data-name="圆角矩形 27" class="cls-4" x="19" y="21" width="21" height="2" rx="1" ry="1"/>
+  <path id="形状_8" data-name="形状 8" class="cls-5" d="M666,514l9,9-9,9" transform="translate(-635 -501)"/>
+</svg>
