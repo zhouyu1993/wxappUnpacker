@@ -1,4 +1,44 @@
-# pkg
+# 下载 adb
+
+https://adbshell.com/downloads
+
+adb.exe
+
+# 下载安卓模拟器，开启 root 权限
+
+# 安卓模拟器下载微信，登录，打开小程序
+
+# 查找位置
+
+在 adb.exe 文件目录下，运行 git-bash
+
+``` bash
+./adb shell
+
+cd /data/data/com.tencent.mm/MicroMsg # 微信目录
+
+cd /data/data/com.tencent.mm/MicroMsg/${32位加密串，用户id} # 具体用户，时间最新的那个
+
+cd /data/data/com.tencent.mm/MicroMsg/${32位加密串，用户id}/appbrand/pkg # 小程序目录
+
+ll -a #查看文件，.wxapkg 就是微信小程序文件
+```
+
+# 下载微信小程序文件
+
+``` bash
+./adb pull data/data/com.tencent.mm/MicroMsg/66b1883f37523cda3c314b5a55a8159f/appbrand/pkg mypkg
+```
+
+# 把下载的 mypkg 复制到本项目下
+
+# 安装环境
+
+``` bash
+npm i
+```
+
+# 解压 pkg
 
 ``` bash
 # 17k小说
